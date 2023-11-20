@@ -11,3 +11,5 @@ I got an error message in the comple process that the parent directory could not
 Finally, make sure to run the book files and the project from the terminal. 
 The grading.bat file contains all the java commands to  run the project.
 
+I run the project in Visual Studio Code. In the terminal, make sure to change to the directory where the grading.bat file is located. Use cd (change directory) as needed. To go to a subdirectory: cs (subdirectory). To go up one level: cd ..
+![alt text](/images/vscode.png "Running in Visual Studio Code")
